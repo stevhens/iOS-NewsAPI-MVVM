@@ -1,6 +1,6 @@
-# News API - MVVM
+# NewsOn - MVVM
 
-News API App is an app to show News in the US, the News are the latest articles with the title and description. 
+NewsOn App is an app to show News in the US, the News are the latest articles with the title and description. 
 
 ### What's used in this project:
 * MVVM Architecture
