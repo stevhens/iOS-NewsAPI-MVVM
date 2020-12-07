@@ -4,7 +4,7 @@
 
 ## Outline
 
-This app makes me learn about using Covid19 Tracking API and implement MVVM Architecture. This app developed in SwiftUI.
+This app makes me learn about using News API and implement MVVM Architecture. This app developed in SwiftUI.
 
 ## What is NewsOn
 
